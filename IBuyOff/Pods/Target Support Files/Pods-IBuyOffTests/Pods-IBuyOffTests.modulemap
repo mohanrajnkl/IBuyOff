@@ -1,0 +1,6 @@
+framework module Pods_IBuyOffTests {
+  umbrella header "Pods-IBuyOffTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
